@@ -6,6 +6,7 @@
   margin: 0 auto;
   background: url('./../../images/cover-background.jpg');
   background-position: center;
+  background-size: cover;
   margin-bottom: 92px;
 }
 
